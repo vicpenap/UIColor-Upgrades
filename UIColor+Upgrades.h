@@ -20,11 +20,9 @@
 
 /** Returns a UIColor instance with the hexadecimal color.
 
-@param hex 
-A color in hexadecimal notation: `0xCCCCCC`, `0xF7F7F7`, etc.
+@param hex A color in hexadecimal notation: `0xCCCCCC`, `0xF7F7F7`, etc.
 
-@return
-A new autoreleased UIColor instance. */
+@return A new autoreleased UIColor instance. */
 + (UIColor *) colorWithHex:(int)hex;
 
 /** Returns a new autoreleased UIColor instance with a random color, 

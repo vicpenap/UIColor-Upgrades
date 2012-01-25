@@ -9,9 +9,9 @@
 
 /** This UIColor category improves UIColor by adding four new class methods:
 
-- colorWithHex:(int)hex
+- colorWithHex:
 - randomColor
-- colorFromSeed:(int)seed
+- colorFromSeed:
 - blueDetailColor
 
 */
